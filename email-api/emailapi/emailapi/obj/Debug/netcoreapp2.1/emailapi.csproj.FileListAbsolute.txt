@@ -1,0 +1,14 @@
+F:\Projects\EmailApp\email-api\emailapi\emailapi\bin\Debug\netcoreapp2.1\emailapi.deps.json
+F:\Projects\EmailApp\email-api\emailapi\emailapi\bin\Debug\netcoreapp2.1\emailapi.runtimeconfig.json
+F:\Projects\EmailApp\email-api\emailapi\emailapi\bin\Debug\netcoreapp2.1\emailapi.runtimeconfig.dev.json
+F:\Projects\EmailApp\email-api\emailapi\emailapi\bin\Debug\netcoreapp2.1\emailapi.dll
+F:\Projects\EmailApp\email-api\emailapi\emailapi\bin\Debug\netcoreapp2.1\emailapi.pdb
+F:\Projects\EmailApp\email-api\emailapi\emailapi\obj\Debug\netcoreapp2.1\emailapi.csprojAssemblyReference.cache
+F:\Projects\EmailApp\email-api\emailapi\emailapi\obj\Debug\netcoreapp2.1\emailapi.csproj.CoreCompileInputs.cache
+F:\Projects\EmailApp\email-api\emailapi\emailapi\obj\Debug\netcoreapp2.1\emailapi.RazorAssemblyInfo.cache
+F:\Projects\EmailApp\email-api\emailapi\emailapi\obj\Debug\netcoreapp2.1\emailapi.RazorAssemblyInfo.cs
+F:\Projects\EmailApp\email-api\emailapi\emailapi\obj\Debug\netcoreapp2.1\emailapi.AssemblyInfoInputs.cache
+F:\Projects\EmailApp\email-api\emailapi\emailapi\obj\Debug\netcoreapp2.1\emailapi.AssemblyInfo.cs
+F:\Projects\EmailApp\email-api\emailapi\emailapi\obj\Debug\netcoreapp2.1\emailapi.RazorTargetAssemblyInfo.cache
+F:\Projects\EmailApp\email-api\emailapi\emailapi\obj\Debug\netcoreapp2.1\emailapi.dll
+F:\Projects\EmailApp\email-api\emailapi\emailapi\obj\Debug\netcoreapp2.1\emailapi.pdb
